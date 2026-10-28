@@ -8,7 +8,7 @@ La nota es sobre 5.0: puntos ÷ 20. Parte práctica: 80 puntos. Preguntas de raz
 
 ## Condiciones
 
-
+- Individual. Sin IA de ningún tipo: Copilot, chats ni extensiones. Este repo trae `.vscode/settings.json` con la IA de VS Code desactivada: no lo cambies.
 - Puedes consultar MDN, tu propio repositorio del Explorador y el material del curso. No compartas ni copies código de compañeros.
 - Abre el proyecto con **Live Server**: los módulos no funcionan con doble clic.
 - Haz **commit y push al terminar cada requisito**, con mensajes `R1 listo`, `R2 listo`…
@@ -223,4 +223,4 @@ Si `https://rickandmortyapi.com/api/episode` no carga en el navegador, en `js/ap
 
 - Dilo en el mensaje del commit, por ejemplo: `R1 listo (con respaldo: la API no respondía)`.
 - Antes de entregar, si la API ya responde, vuelve a la URL real.
-# parcial2-web1-daniel-cardona-
+# parcial2-web1-daniel_cardona-
